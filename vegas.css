@@ -1,0 +1,32 @@
+body {
+  padding: 10px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.centre {
+  text-align: center;
+}
+
+.large-width {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.medium-width {
+  max-width: 760px;
+  margin: auto;
+}
+
+.card-image {
+  max-width: 600px;
+}
+
+.faq {
+  max-width: 760px;
+  margin: auto;
+  list-style: none;
+  padding-right: 10px;
+}
