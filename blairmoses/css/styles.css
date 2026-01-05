@@ -12,7 +12,7 @@
 }
 
 .jumbotron {
-  background:transparent url("/assets/img/blair-superimposed.png");
+  background:transparent url("assets/img/blair-superimposed.png");
   background-size: cover;
   background-position: center;
   height: 100%;
